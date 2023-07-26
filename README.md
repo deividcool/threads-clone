@@ -1,4 +1,4 @@
-# Weather-App-React-Native
+# Threads-App-TypeScript
 
 ![Image](https://i.imgur.com/uldhIO3.png)
 
